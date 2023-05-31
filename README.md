@@ -1,6 +1,6 @@
 ### Hi there, I'm Roland👋
 
-## I'm an Artificial Intelligence Engineer, Data Scientist and a Researcher.
+## I'm an Artificial Intelligence Engineer, a Data Scientist and a Researcher.
 
 - I hold a Master in Artificial Intelligence, Systems and Data from Paris Dauphine-PSL
 - I’m actively working on ML and DL projects
