@@ -8,7 +8,6 @@
 
 ## How to reaech me:
 [<img align="left" alt="Roland Baz | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
-[<img align="left" alt="Roland Baz | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="Roland Baz | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="Roland Baz | Research Gate" width="22px" src="https://icon-icons.com/downloadimage.php?id=130843&root=2108/PNG/512/&file=researchgate_icon_130843.png" />][researchgate]
 <br />
