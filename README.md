@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Roland👋
+
+## I'm an Artificial Intelligence Engineer, Data Scientist and a Researcher.
+
+- I have a Master in Artificial Intelligence, Systems and Data from Dauphine University-PSL
+- I’m actively working on ML and DL projects
+- I'm interested in AI, ML and DL with a focus on NLP
 
 <!--
 **EngBaz/Engbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
