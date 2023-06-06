@@ -14,23 +14,23 @@
 <br />
 
 ## Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
-<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
 
 <br />
 <br />
 <br />
 
-<img align="center" alt="Roland Baz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Engbaz&show_icons=true&hide_border=true&hide=prs&count_private=true"/>
+<img align="left" alt="Roland Baz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Engbaz&show_icons=true&hide_border=true&hide=prs&count_private=true"/>
 
 
 [email]: mailto:baz.roland123@gmail.com
