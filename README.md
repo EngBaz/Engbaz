@@ -27,6 +27,7 @@
 <img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
 
 <br />
+<br />
 
 <img align="left" alt="Roland Baz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Engbaz&show_icons=true&hide_border=true&hide=prs&count_private=true"/>
 
