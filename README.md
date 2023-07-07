@@ -2,6 +2,7 @@
 
 ## I'm an Artificial Intelligence Engineer, a Data Scientist and a Researcher.
 
+- AI Research Scientist at LAMSADE-PSL
 - I hold a Master in Artificial Intelligence, Systems and Data from Paris Dauphine-PSL
 - I’m actively working on ML and DL projects
 - I'm interested in AI, ML and DL with a focus on NLP
