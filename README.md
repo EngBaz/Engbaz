@@ -1,6 +1,6 @@
 # Hi there, I'm Roland👋
 
-##  I'm an Artificial Intelligence Engineer
+##  I'm an Artificial Intelligence Engineer 🤖
 - I am an AI Engineer
 - I hold a Master in Artificial Intelligence, Systems and Data from Paris Dauphine-PSL
 - I’m actively working on ML and DL projects
