@@ -1,6 +1,6 @@
-### Hi there, I'm Roland👋
+# Hi there, I'm Roland👋
 
-## I'm an Artificial Intelligence Research Scientist.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> I'm an Artificial Intelligence Research Scientist.
 
 - I am an AI Research Scientist at LAMSADE-PSL
 - I hold a Master in Artificial Intelligence, Systems and Data from Paris Dauphine-PSL
