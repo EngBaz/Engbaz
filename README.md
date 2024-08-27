@@ -8,7 +8,7 @@
 - I'm interested in AI with a focus on GenAI and LLMs
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,pycharm,html,css,js,sql,md)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,pycharm,html,css,js,postgresql,md)](#)
 
 ## Connect with Me:
 [<img align="left" alt="Roland Baz | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
