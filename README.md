@@ -8,5 +8,5 @@
 - I'm interested in AI with a focus on GenAI and LLMs
 
 ## Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=ai,python,vscode,git,github,pycharm,html,css,js,mysql,md,)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,pycharm,html,css,js,mysql,md,)](#)
 
