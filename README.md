@@ -1,7 +1,8 @@
 # Hi there, I'm Roland👋
 
-## 🧑‍💻I'm an Artificial Intelligence Engineer 
-- I am open to collaborate on exciting AI projects
+## 🧑‍💻I'm an Artificial Intelligence Engineer
+
+- Engineer from Paris Sciences et Lettres specialized in AI.
 - I hold a Master in Artificial Intelligence, Systems and Data from Paris Dauphine-PSL
 - I’m actively working on ML and DL projects
 - I'm interested in AI with a focus on GenAI and LLMs
