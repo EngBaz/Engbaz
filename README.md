@@ -2,10 +2,10 @@
 
 ## 🧑‍💻I'm an Artificial Intelligence Engineer
 
-- Engineer from Paris Sciences et Lettres specialized in AI.
-- I hold a Master in Artificial Intelligence, Systems and Data from Paris Dauphine-PSL
-- I’m actively working on ML and DL projects
-- I'm interested in AI with a focus on GenAI and LLMs
+- 🎓 Engineer from Paris Sciences et Lettres specialized in AI.
+- 💼 AI Engineer/Data Scientist working on innovative AI solutions.
+- 🌱 Passionate about empowering businesses with AI.
+- 🤝 Always open to collaborations, mentorship, and impactful projects.
 
 ## 🚀Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,pycharm,html,css,js,mysql,md,)](#)
