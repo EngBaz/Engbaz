@@ -3,7 +3,7 @@
 ### AI Engineer | Data Scientist | AI Consultant
 
 ```python
-class DefineMe:
+class BackGround:
     def __init__(self):
         self.name = "Roland"
         self.education = "Paris Sciences et Lettres-Paris"
