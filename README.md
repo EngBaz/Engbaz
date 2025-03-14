@@ -19,7 +19,7 @@ class BackGround:
 - 🎓 Engineer from Paris Sciences et Lettres specialized in AI
 - 💼 AI Engineer/Data Scientist working on innovative AI solutions
 - 🌱 Passionate about empowering businesses with AI
-- 🤝 Open to collaborations on projects involving LLMs, RAG, and AI agents
+- 🤝 Open to collaborations on projects involving Data Science, LLMs, RAG, and AI agents
 
 ## 🛠️Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,pycharm,html,css,js,mysql,md,)](#)
