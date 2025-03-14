@@ -2,8 +2,10 @@
 
 AI Engineer | Data Scientist | AI Consultant
 
+![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)
+
 ```python
-class YoanGabison:
+class PresentYourself:
     def __init__(self):
         self.name = "Roland"
         self.education = "Paris Sciences et Lettres"
