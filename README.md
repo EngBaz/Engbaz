@@ -5,12 +5,12 @@
 ## AI Engineer | LLM Specialist | Tech Innovator  
 
 ```python
-class PresentYourself:
+class DefineMe:
     def __init__(self):
         self.name = "Roland"
-        self.education = "Paris Sciences et Lettres"
+        self.education = "Paris Sciences et Lettres-Paris"
         self.specialization = "Artificial Intelligence and Data Science"
-        self.skills = ["LLMs", "LangChain", "", "", "GenAI Solutions"]
+        self.skills = ["LLMs", "LangChain", "Python", "Data Science", "GenAI Solutions"]
     
     def mission(self):
         return "Turning complex tech into simple, elegant solutions 💡"
