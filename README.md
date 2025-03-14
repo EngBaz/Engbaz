@@ -1,5 +1,7 @@
 # Hi there, I'm Roland👋
 
+AI Engineer | Data Scientist | AI Consultant
+
 ```python
 class YoanGabison:
     def __init__(self):
@@ -19,6 +21,6 @@ class YoanGabison:
 - 🌱 Passionate about empowering businesses with AI
 - 🤝 Open to collaborations on projects involving LLMs, RAG, and AI agents
 
-## 🚀Tech Stack 
+## 🛠️Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,pycharm,html,css,js,mysql,md,)](#)
 
