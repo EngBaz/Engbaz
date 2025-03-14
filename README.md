@@ -2,7 +2,7 @@
 
 AI Engineer | Data Scientist | AI Consultant
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)
+![Profile views](https://hits.sh/github.com/YOUR_GITHUB_USERNAME.svg?style=flat-square)
 
 ```python
 class PresentYourself:
