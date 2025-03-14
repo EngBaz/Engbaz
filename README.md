@@ -5,7 +5,7 @@
 ```python
 class BackGround:
     def __init__(self):
-        self.name = "Roland"
+        self.name = "Roland B."
         self.education = "Paris Sciences et Lettres-Paris"
         self.specialization = "Artificial Intelligence and Data Science"
         self.skills = ["LLMs", "LangChain", "Python", "Data Science", "GenAI Solutions"]
