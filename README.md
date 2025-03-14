@@ -1,8 +1,6 @@
 # Hi there, I'm Roland👋
 
-### AI Engineer | Data Scientist | AI Consultant
-
-## AI Engineer | LLM Specialist | Tech Innovator  
+## AI Engineer | Data Scientist | AI Consultant
 
 ```python
 class DefineMe:
