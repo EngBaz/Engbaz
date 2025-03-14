@@ -10,6 +10,7 @@ class YoanGabison:
     
     def mission(self):
         return "Turning complex tech into simple, elegant solutions 💡"
+```
 
 ## 🧑‍💻About Me
 
